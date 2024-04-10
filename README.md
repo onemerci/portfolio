@@ -1,5 +1,5 @@
 # portfolio
-Try to credit a new repo by myself
+This folder showcases projects I have completed.
 
 ## Section 1
 
